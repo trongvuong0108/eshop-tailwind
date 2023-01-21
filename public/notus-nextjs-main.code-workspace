@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../../notus-nextjs-main"
+	},
+	{
+		"path": "../../eShopSolutionFrontEnd"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {}
+}
